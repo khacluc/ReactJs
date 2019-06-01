@@ -1,0 +1,36 @@
+
+.table{
+    background: #607d8b1f;
+    text-align: center;
+}
+
+.content-text{
+    border: 1px solid #00000069;
+}
+
+/* .input-myBook{
+    display: block;
+    float: left;
+    
+} */
+
+.text-input{
+    color: #3e3c3ca6;
+    font-weight: bold;
+}
+
+.text-form{
+    margin-bottom: 5px;
+}
+
+.text-button{
+    margin-left: 5px;
+}
+
+.header{
+    text-align: center;
+}
+
+.clock{
+    margin-left: 350px;
+}
