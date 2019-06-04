@@ -1,0 +1,13 @@
+.scaleNames{
+  width: 300px;
+  border-style: double;
+  border-color: black;
+  margin: auto;
+  margin-top: 10px;
+}
+.my-temperature{
+  text-align: center;
+}
+.boil{
+  color: red;
+}

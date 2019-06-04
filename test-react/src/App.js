@@ -116,9 +116,9 @@ class App extends React.Component {
   handleChange(e) {
     this.setState(
       {
-        tempurater: e.target.value,
+        tempurater: e.target.value
       }
-    );
+    )
   }
 
 
